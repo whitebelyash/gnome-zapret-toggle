@@ -22,3 +22,7 @@ You're done. Yes, I'm a annoying person, added these pesky `$` so you can't just
 #### YOU'RE A DUMBASS VIBECODER
 
 shut up.
+
+### todo
+
+- [ ] bypass permission checks - uses pkexec workaround for now, but it's a crappy solution.
