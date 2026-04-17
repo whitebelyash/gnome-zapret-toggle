@@ -1,0 +1,7 @@
+{
+  "name": "Zapret Toggle",
+  "description": "Toggle zapret.service on/off from Quick Settings",
+  "uuid": "zapret@quick-settings",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 1
+}
