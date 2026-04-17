@@ -1,4 +1,4 @@
-## Zapret Toggle
+## Zapret Toggle for GNOME Shell
 
 Extremely simple vibecoded GNOME Shell extension which adds a toggle for controlling zapret systemd service. That's it.
 
@@ -12,10 +12,11 @@ Supports gnome-shell 46-50.
 
 Git clone the repo and drop extension directory onto extensions folder.
 ```bash
-$ git clone https://github.com/whitebelyash/ZapretToggle && cd ZapretToggle
+$ git clone https://github.com/whitebelyash/gnome-zapret-toggle && cd gnome-zapret-toggle
 $ cp -rv zapret@quick-settings ~/.local/share/gnome-shell/extensions/
+$ cd -
 ```
-You're done.
+You're done. Yes, I'm a annoying person, added these pesky `$` so you can't just copypaste it in your GNOME Terminal. Sorry!
 
 
 #### YOU'RE A DUMBASS VIBECODER
