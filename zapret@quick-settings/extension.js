@@ -20,6 +20,7 @@ class ZapretToggle extends QuickToggle {
         
         this.connect('clicked', () => {
             // The toggle hasn't changed state yet, so we want the opposite of current state
+            // I hate LLMs
             const wantEnabled = !this.checked;
             this._setServiceState(wantEnabled);
         });
