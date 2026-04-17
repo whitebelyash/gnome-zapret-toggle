@@ -16,7 +16,7 @@ $ git clone https://github.com/whitebelyash/gnome-zapret-toggle && cd gnome-zapr
 $ cp -rv zapret@quick-settings ~/.local/share/gnome-shell/extensions/
 $ cd -
 ```
-You're done. Yes, I'm a annoying person, added these pesky `$` so you can't just copypaste it in your GNOME Terminal. Sorry!
+You're done. Yes, I'm an annoying person, added these pesky `$` so you can't just copypaste it in your GNOME Terminal. Sorry!
 
 
 ## todo
