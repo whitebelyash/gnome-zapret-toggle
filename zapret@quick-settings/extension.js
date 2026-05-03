@@ -79,6 +79,7 @@ export default class ZapretExtension {
         if (this._indicator) {
             this._indicator.quickSettingsItems.length = 0;
             this._indicator.destroy();
+            Main.panel.statusArea.quickSettings.removeExternalIndicator(this._indicator);
             this._indicator = null;
         }
         this._toggle = null;
