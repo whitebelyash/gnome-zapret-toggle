@@ -8,7 +8,7 @@ Did some manual fixes because the llm/slop generator I used refused to properly 
 
 Supports gnome-shell 46-50.
 
-#### Installation
+## Installation
 
 Git clone the repo and drop extension directory onto extensions folder.
 ```bash
@@ -16,9 +16,15 @@ $ git clone https://github.com/whitebelyash/gnome-zapret-toggle && cd gnome-zapr
 $ cp -rv zapret@quick-settings ~/.local/share/gnome-shell/extensions/
 $ cd -
 ```
-You're done. Yes, I'm a annoying person, added these pesky `$` so you can't just copypaste it in your GNOME Terminal. Sorry!
+You're done. Yes, I'm an annoying person, added these pesky `$` so you can't just copypaste it in your GNOME Terminal. Sorry!
 
 
-#### YOU'RE A DUMBASS VIBECODER
+## todo
+
+- [ ] bypass permission checks - uses pkexec workaround for now, but it's a crappy solution.
+
+
+
+### YOU'RE A DUMBASS VIBECODER
 
 shut up.
